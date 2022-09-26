@@ -1,0 +1,36 @@
+.navbar-collapse {
+    flex-grow: 0
+}
+body{
+    height: 2000px;
+}
+section {
+    position: relative;
+}
+#img-section_1{
+    position: relative;
+    width: 100%;
+    filter: brightness(0.5);
+    
+}
+#call-to-action {
+    color: white;
+    position: absolute;
+    right: 10%;
+    bottom: 20%;
+    text-align: right;
+    max-width: 30rem;
+}
+.etiqueta {
+    padding: 0 0.5rem 0.2rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+footer ul li{
+    list-style: none;
+    display: inline;
+    margin: 2rem 1rem;
+}
+footer ul li a{
+    text-decoration: none;
+}
