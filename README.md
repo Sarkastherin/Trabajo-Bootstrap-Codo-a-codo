@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://astounding-peony-66b5d4.netlify.app/">
       Solución
     </a>
   </h3>
@@ -22,14 +22,14 @@
 
 ## Contenido
 
-- [Visión general](#overview)
-  - [Estructurado con](#built-with)
-- [Características](#features)
+- [General](#general)
+  - [Estructurado con](#Estructurado-con)
+- [Características](#Características)
 - [Mis redes y recursos](#Mis-redes-y-recursos)
 
 <!-- OVERVIEW -->
 
-## Visión general
+## General
 
 ![screenshot](./img/screenshot.png)
 
