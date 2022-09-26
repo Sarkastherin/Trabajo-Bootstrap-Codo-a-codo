@@ -22,29 +22,34 @@
 
 ## Contenido
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
+- [Visión general](#overview)
+  - [Estructurado con](#built-with)
+- [Características](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
-## Overview
+## Visión general
 
 ![screenshot](./img/screenshot.png)
 
-Pra
 
-### Built With
+### Estructurado con
 En este trabajo practico, hice uso de los lenguajes HTML y CSS, y el Framework Bootstrap
 
 - [HTML]()
 - [CSS]()
 - [BOOTSTRAP](https://getbootstrap.com/)
 
-## Features
+## Características
 
-Esta página fue creada para completar el 1er desafío práctico del curso JS-FRONT END 2022 2 [Trabajo práctico](https://aulasvirtuales.bue.edu.ar/mod/journal/view.php?id=305793) para el cual se debía replicar [esta página](#demo) principal con lo visto en clase hasta el momento, se recomienda el uso de bootstrap.
+Esta página fue creada para completar el 1er desafío práctico del curso JS-FRONT END 2022 2 [Trabajo práctico](https://aulasvirtuales.bue.edu.ar/mod/journal/view.php?id=305793) para el cual se debía replicar [esta página](./img/final_front_2022.jpg) con lo visto en clase hasta el momento, se recomiendó el uso de bootstrap.
+<ul>
+  <li>No es responsive</li>
+  <li>Está estructurada, en su mayoria con bootstrap</li>
+  <li>Los enlances y el formulari son estéticos</li>
+  <li>Maneje la paleta de colores de bootstrap, sin alterar la base</li>
+</ul>
 
 
 ## Mis redes y recursos
