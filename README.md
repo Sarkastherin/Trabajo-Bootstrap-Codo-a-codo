@@ -54,5 +54,5 @@ Esta página fue creada para completar el 1er desafío práctico del curso JS-FR
 
 ## Mis redes y recursos
 
-- GitHub [@sarkastherin](https://{github.com/sarkastherin})
-- Twitter [@sarkastherin](https://{twitter.com/sarkastherin})
+- GitHub [Katherin Guerrero](https://github.com/Sarkastherin)
+- Twitter [@sarkastherin](https://twitter.com/SarKastherin)
