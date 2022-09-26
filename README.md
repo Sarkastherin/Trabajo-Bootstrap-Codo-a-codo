@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="./img/final_front_2022.jpg" id="demo">
+    <a href="./img/final_front_2022.jpg" id="demo" width="100%">
       Demo
     </a>
     <span> | </span>
@@ -20,7 +20,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Contenido
 
 - [Overview](#overview)
   - [Built With](#built-with)
@@ -31,7 +31,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](./img/screenshot.png)
 
 Pra
 
