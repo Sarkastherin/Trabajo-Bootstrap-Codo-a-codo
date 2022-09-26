@@ -25,7 +25,7 @@
 - [Visión general](#overview)
   - [Estructurado con](#built-with)
 - [Características](#features)
-- [Contact](#contact)
+- [Mis redes y recursos](#Mis-redes-y-recursos)
 
 <!-- OVERVIEW -->
 
