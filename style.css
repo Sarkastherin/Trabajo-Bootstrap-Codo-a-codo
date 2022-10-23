@@ -1,9 +1,10 @@
+nav{
+    background-color: #343a40;
+}
 .navbar-collapse {
     flex-grow: 0
 }
-body{
-    height: 100vh;
-}
+
 section {
     position: relative;
 }
@@ -26,6 +27,19 @@ section {
     font-weight: 600;
     font-size: 0.9rem;
 }
+.descuento{
+    font-weight: bold;
+}
+
+.text-condicion{
+    font-size: .9rem;
+    color: gray;
+}
+footer {
+    background-image: linear-gradient(to right, #1f3744 , #1f5270);
+    color: white;
+}
+
 footer ul li{
     list-style: none;
     display: inline;
@@ -34,20 +48,12 @@ footer ul li{
 footer ul li a{
     text-decoration: none;
 }
-.descuento{
-    font-weight: bold;
-}
 .container-descuento{
     max-width: 620px;
-    margin: auto;
-}
-.text-condicion{
-    font-size: .9rem;
-    color: gray;
-}
-footer{
-    background-image: linear-gradient(to right, #1f3744 , #1f5270);
-    position: fixed;
-    bottom: 0px;
-    width: 100%;
+    min-height: calc(100vh - 185px);
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
