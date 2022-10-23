@@ -40,10 +40,15 @@ En este trabajo practico, hice uso de los lenguajes HTML y CSS, y el Framework B
 - [HTML]()
 - [CSS]()
 - [BOOTSTRAP](https://getbootstrap.com/)
+- [Javascript]()
 
 ## Características
 
-Esta página fue creada para completar el 1er desafío práctico del curso JS-FRONT END 2022 2 [Trabajo práctico](https://aulasvirtuales.bue.edu.ar/mod/journal/view.php?id=305793) para el cual se debía replicar [esta página](./img/final_front_2022.jpg) con lo visto en clase hasta el momento, se recomiendó el uso de bootstrap.
+Esta página ha sido creada en dos partes:
+<ol>
+  <li>Para completar el 1er desafío práctico del curso JS-FRONT END 2022 2 [Trabajo práctico](https://aulasvirtuales.bue.edu.ar/mod/journal/view.php?id=305793) para el cual se debía replicar [esta página](./img/final_front_2022.jpg) con lo visto en clase hasta el momento, se recomiendó el uso de bootstrap.</li>
+  <li>El 2do desafío</li>
+</ol>
 <ul>
   <li>No es responsive</li>
   <li>Está estructurada, en su mayoria con bootstrap</li>
