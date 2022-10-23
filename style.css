@@ -2,7 +2,7 @@
     flex-grow: 0
 }
 body{
-    height: 2000px;
+    height: 100vh;
 }
 section {
     position: relative;
@@ -33,4 +33,21 @@ footer ul li{
 }
 footer ul li a{
     text-decoration: none;
+}
+.descuento{
+    font-weight: bold;
+}
+.container-descuento{
+    max-width: 620px;
+    margin: auto;
+}
+.text-condicion{
+    font-size: .9rem;
+    color: gray;
+}
+footer{
+    background-image: linear-gradient(to right, #1f3744 , #1f5270);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
 }
